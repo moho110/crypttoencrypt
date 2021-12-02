@@ -14,7 +14,7 @@
             "Crypttoencrypt\\": "src/Tests",
             "Crypttoencrypt\\": "src/Base",
             "Crypttoencrypt\\": "src/Common",
-            "Crypttoencrypt\\": "src/Algorithm",
+            "Crypttoencrypt\\": "src/Algorithm"
         }
     },
     "minimum-stability": "dev",
