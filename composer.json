@@ -11,10 +11,10 @@
     ],
     "autoload": {
         "psr-4": {
-            "crypttoencrypt\\": "src/tests",
-            "crypttoencrypt\\": "src/base",
-            "crypttoencrypt\\": "src/bommon",
-            "crypttoencrypt\\": "src/algorithm"
+            "Crypttoencrypt\\": "src/tests",
+            "Crypttoencrypt\\": "src/base",
+            "Crypttoencrypt\\": "src/bommon",
+            "Crypttoencrypt\\": "src/algorithm"
         }
     },
     "minimum-stability": "dev",
