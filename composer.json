@@ -1,0 +1,22 @@
+{
+    "name": "Crypttoencrypt/src",
+    "description": "A Crypttoencrypt Laravel package",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "VRer",
+            "email": "houyue0074@163.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Crypttoencrypt\\": "src/Tests",
+            "Crypttoencrypt\\": "src/Base",
+            "Crypttoencrypt\\": "src/Common",
+            "Crypttoencrypt\\": "src/Algorithm",
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
