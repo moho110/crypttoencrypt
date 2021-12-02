@@ -1,5 +1,5 @@
 {
-    "name": "Crypttoencrypt/src",
+    "name": "crypttoencrypt/src",
     "description": "A Crypttoencrypt Laravel package",
     "type": "project",
     "license": "MIT",
@@ -11,7 +11,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Crypttoencrypt\\": "src/"
+            "crypttoencrypt\\": "src/"
         }
     },
     "minimum-stability": "dev",
